@@ -1,2 +1,2 @@
-require('./trial_examples/trial2');
+require('./trial_examples/trial3');
 

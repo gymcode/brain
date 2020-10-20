@@ -46,4 +46,4 @@ function retaurantForDay(daysOfWeek){
     return HighesRestaurant
 }
 
-console.log(retaurantForDay('Monday'))
+console.log(retaurantForDay('Wednesday'))
